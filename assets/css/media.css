@@ -1,0 +1,20 @@
+
+
+/*Account */
+
+@media  screen and (max-width:1000px) {
+    body .account .box:nth-child(1){
+        display: none;
+    }
+    body .account .box:nth-child(2){
+        height:110vh;
+    }
+    body .account .box:nth-child(2) .logo{
+        margin-top:20px;
+    }
+
+    body .account  .account-bt{
+        top:100%;
+        padding:30px;
+    }
+}
